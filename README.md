@@ -1,4 +1,4 @@
-# Auto-Logger
+# Auto-Login
 ## 1.Purpose
 - https://openerp.dailyopt.ai/ is a website that my university (Hanoi University of Science and Technology, Vietnam) use to assign coding problems for students and grade their work.
 - The main purpose of this repository is to practice python coding and the use of selenium library.
